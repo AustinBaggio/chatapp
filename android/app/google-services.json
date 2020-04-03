@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "554483183958",
+    "firebase_url": "https://chatapp-cfb61.firebaseio.com",
+    "project_id": "chatapp-cfb61",
+    "storage_bucket": "chatapp-cfb61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554483183958:android:e1be94c947f025bf5ae6f7",
+        "android_client_info": {
+          "package_name": "co.austinbaggio.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554483183958-vutmcc7hhm8ua2tff5vui1ru6p7mnika.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKt95c58h2Q7SwrcLRhwPGsROJyhujd-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554483183958-vutmcc7hhm8ua2tff5vui1ru6p7mnika.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
