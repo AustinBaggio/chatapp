@@ -30,11 +30,12 @@ class _WelcomeScreenState extends State<WelcomeScreen>
 
     animation = ColorTween(begin: Colors.blueGrey, end: Colors.white)
         .animate(controller);
-    @override
-    void dispose() {
-      controller.dispose();
-      super.dispose();
-    }
+  }
+
+  @override
+  void dispose() {
+    controller.dispose();
+    super.dispose();
   }
 
   @override
